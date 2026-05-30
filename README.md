@@ -92,4 +92,4 @@ app/
 ## 👨‍💻 Author
 
 **Chinmay Kumar Behera**  
-[GitHub]((https://github.com/beherachinmay)) | [LinkedIn]((https://www.linkedin.com/in/chinmay-behera08/))
+[GitHub](https://github.com/beherachinmay) | [LinkedIn](https://www.linkedin.com/in/chinmay-behera08/)
