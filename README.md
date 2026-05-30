@@ -59,21 +59,6 @@ npm install
 npm start
 ```
 
----
-
-
----
-
-## 📬 API Endpoints
-
-| Method | Endpoint           | Description       |
-|--------|--------------------|-------------------|
-| GET    | /api/products      | Get all products  |
-| GET    | /api/products/{id} | Get product by ID |
-| POST   | /api/products      | Add new product   |
-| PUT    | /api/products/{id} | Update product    |
-| DELETE | /api/products/{id} | Delete product    |
-
 ## 📁 Project Structure
 
 <details>
@@ -96,6 +81,18 @@ app/
 ```
 
 </details>
+
+## 📬 API Endpoints
+
+| Method | Endpoint           | Description       |
+|--------|--------------------|-------------------|
+| GET    | /api/products      | Get all products  |
+| GET    | /api/products/{id} | Get product by ID |
+| POST   | /api/products      | Add new product   |
+| PUT    | /api/products/{id} | Update product    |
+| DELETE | /api/products/{id} | Delete product    |
+
+---
 
 ## 👨‍💻 Author
 
