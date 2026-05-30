@@ -61,20 +61,7 @@ npm start
 
 ---
 
-## 📁 Project Structure
-app/
-├── backend/
-│   ├── src/main/java/
-│   │   ├── controller/
-│   │   ├── service/
-│   │   ├── repository/
-│   │   └── model/
-│   └── application.properties
-└── frontend/
-├── src/
-│   ├── components/
-│   └── App.js
-└── package.json
+
 ---
 
 ## 📬 API Endpoints
@@ -87,7 +74,28 @@ app/
 | PUT    | /api/products/{id} | Update product    |
 | DELETE | /api/products/{id} | Delete product    |
 
----
+## 📁 Project Structure
+
+<details>
+<summary>Click to expand</summary>
+
+```
+app/
+├── backend/
+│   ├── src/main/java/
+│   │   ├── controller/
+│   │   ├── service/
+│   │   ├── repository/
+│   │   └── model/
+│   └── application.properties
+└── frontend/
+    ├── src/
+    │   ├── components/
+    │   └── App.js
+    └── package.json
+```
+
+</details>
 
 ## 👨‍💻 Author
 
